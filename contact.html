@@ -11,35 +11,38 @@
      }
     </style>
      <div class="container">
-  <div style="text-align:center">
+    <div style="text-align:center">
     <h2>Contact Us</h2>
     <p>Swing by for a cup of coffee, or leave us a message:</p>
-  </div>
-  <div class="row">
+    </div>
+    <div class="row">
     <div class="column">
-      <img src="OIP%20(2).jpeg" width="350" height="200" style="text-align:center">
+      <img src="OIP%20(2).jpeg" width="300" height="190" style="text-align:center">
     </div>
     <div class="column">
-      <form action="/action_page.php">
-        <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name..">
-        <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-        <label for="country">Country</label>
-        <select id="country" name="country">
-          <option value="afghanistan">Afghanistan</option>
-          <option value="india">India</option>
-          <option value="pakistan">Pakistan</option>
-          <option value="china">China</option>
-          <option value="iran">Iran</option>
-          <option value="usa">USA</option>
-          <option value="uk">UK</option>
-          <option value="canada">Canada</option>
-          <option value="other">Other</option>
-        </select>
-        <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
-        <input type="submit" value="Submit">
+      <form>
+        form action="#"
+    label for="customerName"
+      | NAME 
+      em &#x2a;
+    input type="text" id="customerName" name="customerName" required=""
+    label for="customerEmail"
+      | EMAIL 
+      em &#x2a;
+    input type="email" id="customerEmail" name="customerEmail" required=""
+    label for="customerPhone" PHONE
+    input type="tel" id="customerPhone" name="customerPhone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+    label for="customerNote"
+      | YOUR MESSAGE 
+      em &#x2a;
+    textarea rows="4" id="customerNote" name="customerNote" required=""
+    label for="spamProtection"
+      | SPAM PROTECTION 
+      em &#x2a; 
+      span &nbsp;&nbsp;&nbsp;&nbsp;What day comes before July 11th?
+    input type="text" id="spamProtection" name="spamProtection"
+    button  id="customerOrder" SUBMIT
+  
       </form>
     </div>
   </div>
