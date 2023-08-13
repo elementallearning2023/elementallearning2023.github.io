@@ -29,7 +29,7 @@
         top: 3%;
         left: 21%;
       }
-      h1 {
+      #indexh1 {
         position: fixed;
         top: 40%;
         left: 50%;
@@ -37,7 +37,7 @@
         text-align: center;
         transform: translateX(-50%);
       }
-      h2 {
+      #indexh2 {
         position: fixed;
         top: 60%;
         left: 50%;
@@ -45,7 +45,7 @@
         text-align: center;
         transform: translateX(-50%);
       }
-      body {
+      #indexbody {
         background-image: url("hNMio7.webp"); 
         background-repeat:no-repeat;
         background-size:cover;
@@ -96,3 +96,4 @@
         top: 3%;
         left: 21%;
       }
+      
