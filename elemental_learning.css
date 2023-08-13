@@ -57,3 +57,42 @@
         top: 15px;
         right: 15px;
       }
+        #abouth1 {
+          color: black;
+          text-align: center;
+          top: 15%;
+          size: 30px;
+     }  
+        #aboutbody {
+          background-image: url("OIP.jpeg"); 
+          background-repeat:no-repeat;
+          background-size:cover;
+     }
+         #home1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 3%;
+      }
+      #about1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 9%;
+      }
+      #service1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 15%
+      }
+      #contact1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 21%;
+      }
