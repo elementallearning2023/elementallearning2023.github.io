@@ -102,4 +102,13 @@
           background-repeat:no-repeat;
           background-size:cover;
           background-attachment: fixed;
-        }
+      }
+       #servicebody {
+          background-image: url("OIP%20(1).jpeg"); 
+          background-repeat:no-repeat;
+          background-size:cover;
+           background-attachment: fixed;
+     }
+         #serviceh1 {
+         text-align: center;
+     }   
