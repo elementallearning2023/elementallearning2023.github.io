@@ -106,9 +106,65 @@
          #serviceh1 {
          text-align: center;
      }   
+      #home1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 3%;
+      }
+      #about1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 9%;
+      }
+      #service1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 15%
+      }
+      #contact1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 21%;
+      }
           #contactbody {
           background-image: url("R.jpeg"); 
           background-repeat:no-repeat;
           background-size:cover;
           background-attachment: fixed;
      }
+       #home1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 3%;
+      }
+      #about1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 9%;
+      }
+      #service1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 15%
+      }
+      #contact1 {
+        color: black;
+        size: 28px;
+        position: fixed;
+        top: 3%;
+        left: 21%;
+      }
