@@ -97,18 +97,18 @@
         top: 3%;
         left: 21%;
       }
-      #contactbody {
-          background-image: url("R.jpeg"); 
-          background-repeat:no-repeat;
-          background-size:cover;
-          background-attachment: fixed;
-      }
        #servicebody {
           background-image: url("OIP%20(1).jpeg"); 
           background-repeat:no-repeat;
           background-size:cover;
-           background-attachment: fixed;
+          background-attachment: fixed;
      }
          #serviceh1 {
          text-align: center;
      }   
+          #contactbody {
+          background-image: url("R.jpeg"); 
+          background-repeat:no-repeat;
+          background-size:cover;
+          background-attachment: fixed;
+     }
