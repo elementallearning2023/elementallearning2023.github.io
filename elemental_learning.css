@@ -67,6 +67,7 @@
           background-image: url("OIP.jpeg"); 
           background-repeat:no-repeat;
           background-size:cover;
+          background-attachment: fixed;
      }
          #home1 {
         color: black;
@@ -96,4 +97,9 @@
         top: 3%;
         left: 21%;
       }
-      
+      #contactbody {
+          background-image: url("R.jpeg"); 
+          background-repeat:no-repeat;
+          background-size:cover;
+          background-attachment: fixed;
+        }
