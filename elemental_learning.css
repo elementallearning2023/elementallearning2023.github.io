@@ -31,16 +31,16 @@
       }
       #indexh1 {
         position: fixed;
-        top: 40%;
+        top: 30%;
         left: 50%;
         color:white;
-        font-size: 5vw;
+        font-size: 3vw;
         text-align: center;
         transform: translateX(-50%);
       }
       #indexh2 {
         position: fixed;
-        top: 60%;
+        top: 70%;
         left: 50%;
         color: white;
         font-size: 2vw;
