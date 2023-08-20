@@ -3,31 +3,31 @@
       }
       #home {
         color: white;
-        size: 28px;
+        font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 3%;
       }
       #about {
         color: white;
-        size: 28px;
+        font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 9%;
       }
       #service {
         color: white;
-        size: 28px;
+        font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 15%
       }
       #contact {
         color: white;
-        size: 28px;
+        font-size: 2vw;
         position: fixed;
         top: 3%;
-        left: 21%;
+        left: 22%;
       }
       #indexh1 {
         position: fixed;
