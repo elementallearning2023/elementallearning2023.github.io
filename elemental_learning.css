@@ -119,5 +119,6 @@
      }
       #logo {
         border-radius: 30%;
-        text-align: center;
+        top: 100px;
+        right: 80px;
       }
