@@ -116,8 +116,11 @@
        }
       #contacticon {
         border-radius: 30%;
-        top: 200px;
-        left: 200px;
+        position: fixed;
+        top:80%
+        left: 50%
+        text-align: center;
+        transform: translageX(-50%)
       }
      #contacth1 {
         position: fixed;
@@ -130,7 +133,7 @@
       }
       #contacth2 {
         position: fixed;
-        top: 70%;
+        top: 60%;
         left: 50%;
         color: black;
         font-size: 2vw;
