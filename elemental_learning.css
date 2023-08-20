@@ -123,7 +123,7 @@
         position: fixed;
         top: 30%;
         left: 50%;
-        color:white;
+        color:black;
         font-size: 3vw;
         text-align: center;
         transform: translateX(-50%);
@@ -132,7 +132,7 @@
         position: fixed;
         top: 70%;
         left: 50%;
-        color: white;
+        color: black;
         font-size: 2vw;
         text-align: center;
         transform: translateX(-50%);
