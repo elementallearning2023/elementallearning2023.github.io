@@ -117,3 +117,7 @@
      #ch1 {
            text-align: center;
      }
+      #logo {
+        border-radius: 30%;
+        text-align: center;
+      }
