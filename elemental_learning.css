@@ -29,6 +29,9 @@
         top: 3%;
         left: 22%;
       }
+      .black {
+        color: black;
+      }
       #indexh1 {
         position: fixed;
         top: 30%;
