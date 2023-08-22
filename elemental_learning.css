@@ -120,8 +120,8 @@
       #contacticon {
         border-radius: 30%;
         position: fixed;
-        top:80%
-        left: 50%
+        top:80%;
+        left: 50%;
         text-align: center;
         transform: translageX(-50%)
       }
