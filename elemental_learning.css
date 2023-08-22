@@ -1,28 +1,28 @@
       html {
         scroll-behavior: smooth;
       }
-      #home {
+      .home {
         color: white;
         font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 3%;
       }
-      #about {
+      .about {
         color: white;
         font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 9%;
       }
-      #service {
+      .service {
         color: white;
         font-size: 2vw;
         position: fixed;
         top: 3%;
         left: 15%
       }
-      #contact {
+      .contact {
         color: white;
         font-size: 2vw;
         position: fixed;
