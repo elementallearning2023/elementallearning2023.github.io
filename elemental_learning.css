@@ -107,10 +107,13 @@
           background-repeat:no-repeat;
           background-size:cover;
           background-attachment: fixed;
-     }
-         #serviceh1 {
+      }
+      #serviceh1 {
          text-align: center;
-     }   
+         color: black;
+         top: 30%;
+         size: 30px;
+       }   
        #cbody {
           background-image: url("R.jpeg"); 
           background-repeat:no-repeat;
