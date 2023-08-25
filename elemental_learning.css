@@ -62,11 +62,13 @@
         top: 15px;
         right: 15px;
       }
+      #aboutdiv {
+        top: 30%;
+        position: fixed;
+      }
       #abouth1 {
         color: black;
         text-align: center;
-        position: fixed;
-        top: 30%;
         size: 30px;
      }  
      #aboutbody {
