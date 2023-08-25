@@ -62,13 +62,13 @@
         top: 15px;
         right: 15px;
       }
-        #abouth1 {
-          color: black;
-          text-align: center;
-          top: 15%;
-          size: 30px;
+      #abouth1 {
+        color: black;
+        text-align: center;
+        top: 30%;
+        size: 30px;
      }  
-        #aboutbody {
+     #aboutbody {
           background-image: url("OIP.jpeg"); 
           background-repeat:no-repeat;
           background-size:cover;
