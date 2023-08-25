@@ -63,7 +63,7 @@
         right: 15px;
       }
       #aboutdiv {
-        top: 30%;
+        top: 20%;
         position: fixed;
       }
       #abouth1 {
@@ -77,7 +77,7 @@
           background-size:cover;
           background-attachment: fixed;
      }
-         #home1 {
+     #home1 {
         color: black;
         size: 28px;
         position: fixed;
