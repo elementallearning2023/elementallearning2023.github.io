@@ -65,6 +65,7 @@
       #abouth1 {
         color: black;
         text-align: center;
+        position: fixed;
         top: 30%;
         size: 30px;
      }  
